@@ -1,4 +1,6 @@
-php-konik
+ZUGFeRD PHP
 =========
 
-PHP Konik is an open source implementation of the ZUGFeRD data model.
+ZUGFeRD PHP is a Konik Library like Datamodel allowing to read, create and validate ZUGFeRD invoices but for PHP.
+
+It released as Open Source.
